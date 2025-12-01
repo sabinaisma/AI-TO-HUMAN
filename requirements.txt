@@ -1,0 +1,4 @@
+streamlit
+pdfminer.six
+python-docx
+google-genai
