@@ -1,0 +1,5 @@
+{
+  "name": "AuthenticAI - Detector & Humanizer",
+  "description": "An advanced AI text detection and humanization tool powered by Gemini. Analyze documents for AI probability and rewrite content to sound natural and authentic.",
+  "requestFramePermissions": []
+}
